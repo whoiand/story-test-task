@@ -24,6 +24,6 @@ Xcode version: 13.4.1 (13F100)
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/emulator```
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools```
 
-## Running Anroid
+## Running Android
 - ```cd <repo-root>```
 - ```yarn run android```
