@@ -7,6 +7,8 @@ Xcode version: 13.4.1 (13F100) <br />
 - ```brew install node```
 - ```brew install watchman```
 - ```sudo gem install cocoapods```
+- ```cd <repo-root>```
+- ```yarn install```
 - ```cd ios && pod install```
 - Build the app via Xcode
 
@@ -20,6 +22,8 @@ Xcode version: 13.4.1 (13F100) <br />
 - ```brew install watchman```
 - ```brew tap homebrew/cask-versions```
 - ```brew install --cask zulu11```
+- ```cd <repo-root>```
+- ```yarn install```
 - ```export ANDROID_SDK_ROOT=$HOME/Library/Android/sdk```
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/emulator```
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools```
