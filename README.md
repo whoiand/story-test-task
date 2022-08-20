@@ -2,7 +2,7 @@ Node verion: v16.14.2
 Android SKD verion: 31
 Xcode version: 13.4.1 (13F100)
 
-##Installation IOS:
+## Installation IOS:
 - ```cd ~```
 - ```brew install node```
 - ```brew install watchman```
@@ -10,11 +10,11 @@ Xcode version: 13.4.1 (13F100)
 - ```cd ios && pod install```
 - Build the app via Xcode
 
-##Running IOS
+## Running IOS
 - ```cd <repo-root>```
 - ```yarn run ios```
 
-##Installation Android:
+## Installation Android:
 - ```cd ~```
 - ```brew install node```
 - ```brew install watchman```
@@ -24,6 +24,6 @@ Xcode version: 13.4.1 (13F100)
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/emulator```
 - ```export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools```
 
-##Running Anroid
+## Running Anroid
 - ```cd <repo-root>```
 - ```yarn run android```
