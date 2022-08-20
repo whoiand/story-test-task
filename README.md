@@ -1,6 +1,6 @@
-Node verion: v16.14.2
-Android SKD verion: 31
-Xcode version: 13.4.1 (13F100)
+Node verion: v16.14.2 <br />
+Android SKD verion: 31 <br />
+Xcode version: 13.4.1 (13F100) <br />
 
 ## Installation IOS:
 - ```cd ~```
